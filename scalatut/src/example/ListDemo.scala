@@ -8,6 +8,8 @@ object ListDemo {
     val newone = 4::oneTwoThreeFour;
     //val newval = 1::2::3:Nil;
     List("Sridhar","newsDistill","hyderabad")
-    println(oneTwoThreeFour)
+    println(oneTwoThreeFour);
+    var jetSet = Set("charter","airbus");
+    jetSet +="aribus";
   }
 }
