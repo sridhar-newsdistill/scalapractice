@@ -18,6 +18,8 @@ object ListDemo {
     println(info);
     val treasureMap=Map[Int,String]();
     treasureMap+=(2->"sridhar");
-    treasureMap+=(3->"");
+    treasureMap+=(3->"scala learning");
+    println(treasureMap(3));
+   // println(treasureMap(4));
   }
 }
