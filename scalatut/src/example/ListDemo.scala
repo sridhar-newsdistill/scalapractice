@@ -6,6 +6,8 @@ object ListDemo {
     val threeFour = List(3, 4);
     val oneTwoThreeFour=oneTwoThree:::threeFour;
     val newone = 4::oneTwoThreeFour;
+    //val newval = 1::2::3:Nil;
+    List("Sridhar","newsDistill","hyderabad")
     println(oneTwoThreeFour)
   }
 }
